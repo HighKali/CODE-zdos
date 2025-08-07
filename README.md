@@ -14,7 +14,7 @@ Crea, impara e gioca: adatto a tutti — grandi, piccoli, esperti e curiosi! �
   Scegli tu quali intelligenze artificiali usare e gestisci le tue API key. Controllo totale! 🤝🤖
 
 - 🖥️ **Cross-platform:**  
-  Windows 🪟, Mac 🍏 e Linux 🐧 sono tutti supportati. Sviluppa dove vuoi, senza limiti! 🌈
+  Windows 🪟, Mac 🍏 e Linux 🐧 sono tutti supportati. Sviluppa dove vuoi, senza limiti! 📡🪛
 
 - 🆓 **Nessun account, nessuna attesa:**  
   Scarica, avvia e crea subito. 👋 Nessuna registrazione, login o dati personali richiesti. 🚫🗝️
